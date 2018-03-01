@@ -1,0 +1,102 @@
+/*Navigation Bar*/
+nav {
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 100%;
+  float: left;
+  background-color: pink;
+  position: fixed;
+  opacity: 1.9; 
+}
+
+nav a {
+  padding: 25px;
+  color: black; 
+}
+
+
+/*Page style*/
+h1, h2 {
+  font-family: 'Clicker Script', cursive;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  padding: 100px;
+  font-weight: bold;
+  color: #D0012D;
+}
+
+h2 {
+  font-size: 75px;
+  font-weight: bold;
+  color: black;
+}
+
+
+h5, p {
+  font-family: 'Yantramanav', sans-serif;
+}
+
+
+#home {
+  background-image: url(https://picjumbo.imgix.net/DSC01147.jpg?q=40&w=1650&sharp=30);
+  background-size: cover;
+  height: 770px;
+}
+
+#primera {
+  background: transparent;
+  font-size: 25px;
+  border: 2px solid pink;
+}
+
+#about {
+  padding: 60px;
+  background-size: cover;
+  background-color: #DE6A82;
+  height: 800px;
+  font-size: 20px;
+}
+
+#party {
+  padding: 70px;
+  background-size: cover; 
+  background-color: #D65772;
+  height: 800px;
+  font-size: 19px;
+}
+
+#rsvp {
+  background-image:url(https://picjumbo.imgix.net/DSC02980.jpg?q=40&w=1650&sharp=30);
+  background-size: cover;
+  padding: 65px;
+  height: 475px;
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
+
+
+/* Footer  */
+footer {
+  position: relative;
+  padding: 5px;
+  text-align: center;
+  background-color: black;
+  color: pink;
+}
+
+font {
+  font-size: 35px;
+}
+
+
+/* Background images are from picjumbo.com */
+
+/* Placeholder images are from unsplash.it */
+
+/* Hex color codes are from htmlcolorcodes.com */
