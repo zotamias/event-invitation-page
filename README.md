@@ -1,1 +1,1 @@
-# event-invitation-page
+# Event Invitation Page
