@@ -6,4 +6,8 @@ Background images: picjumbo.com.
 
 Placeholder images: unsplash.it.
 
-To check out this page live, here's the link: https://codepen.io/zotamias/full/PpOOXO/
+To check out this page live, here are the links: 
+
+https://zotamias.github.io/event-invitation-page/
+
+https://codepen.io/zotamias/full/PpOOXO/
