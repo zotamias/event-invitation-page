@@ -4,7 +4,7 @@ This project was created with HTML, CSS, and Bootstrap.
 
 Background images: picjumbo.com.
 
-Placeholder images: unsplash.it.
+Placeholder images: https://picsum.photos/.
 
 To check out this page live, here are the links: 
 
