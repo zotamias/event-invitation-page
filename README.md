@@ -2,7 +2,7 @@
 
 This project was created with HTML, CSS, and Bootstrap.
 
-Background images: picjumbo.com.
+Background images: [picjumbo](https://picjumbo.com).
 
 Placeholder images: https://picsum.photos/.
 
